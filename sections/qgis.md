@@ -31,12 +31,14 @@
 3. Matplotlib
 4. QGIS
 
-The QGIS Python is independent of the Anaconda Python used elsewhere. You must install the QGIS numpy and matplotlib, even if they are already installed in your system. If you need QGIS to work with your system Python, please follow the listed instructions and then speak to the instructor privately.
+To be able to open the installers, do not double-click on them, instead right-click and then click on ```Open```. Also, the QGIS Python is independent of the Anaconda Python used elsewhere. You must install the QGIS numpy and matplotlib, even if they are already installed in your system. If you need QGIS to work with your system Python, please follow the listed instructions and then speak to the instructor privately.
 
 3. [Test install](#test-install)
 
 #### Troubleshooting
 You may need to change [security & privacy settings](https://support.apple.com/en-us/HT202491) to allow app downloads from outside sources.
+
+If you get an error saying "the file can't be opened because it is from an unidentified developer", right-click on the file and click ```Open```. Now you will get the same error but there is an ```Open``` button that you can click.
 
 ## Test Install
  Launch __QGIS 2.18 Desktop 2.18.20__. A new project will look like this:
